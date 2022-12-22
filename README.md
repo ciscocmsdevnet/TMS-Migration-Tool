@@ -115,7 +115,7 @@ MonitoredMailboxCalendarProperties.csv file should be copied in the folder of TM
 **Known issues**
 •	This tool is not tested against Online-Exchange or O365.
 
-** Getting Help **
+**Getting Help**
 
 •Please reach out to pavupras@cisco.com / shrpv@cisco.com in case of any queries. support is available on best effort basis.
 
@@ -127,7 +127,7 @@ MonitoredMailboxCalendarProperties.csv file should be copied in the folder of TM
 
 **Demo Recording:**
 
-Please refer the folder Demo Videos
+Please refer [Demo Videos](https://github.com/ciscocmsdevnet/TMS-Migration-Tool/tree/main/DemoVideos)
 
  
 
