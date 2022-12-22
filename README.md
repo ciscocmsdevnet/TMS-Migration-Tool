@@ -127,7 +127,7 @@ MonitoredMailboxCalendarProperties.csv file should be copied in the folder of TM
 
 **Demo Recording:**
 
-Please refer the folder Demo Videos
+Please refer [Demo Videos](https://github.com/ciscocmsdevnet/TMS-Migration-Tool/tree/main/DemoVideos)
 
  
 
