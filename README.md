@@ -8,7 +8,7 @@ Tool to migrate all TMS and external server booked meetings to hybrid calendar s
 As TMS (Telepresence Management Suite) is phasing out, all meeting scheduled via TMS, or external servers must be moved to hybrid calendar services.
 TMT is the application which is built to carry out this task.
 
-** TMT Application Flow **
+**TMT Application Flow**
 
 We have used C# to develop this tool.
 Once the user has configured all the fields as mentioned in the Prerequisites and run the TMT application, based on the flag (IsPilotRun) set in the config, the tool will either be used for a pilot run or a complete run. 
@@ -27,8 +27,9 @@ o 	If it is an Outlook generated conference, then we find one instance of that c
 We finally display a popup box showing the count of successfully processed conferences and failed conferences. We log almost all operations and exceptions can be traced from the logs as well as the count of success and failures of conferences while migrating.
 
 
-**Pre-requisites:**
 
+o  Pre-requisites 
+ 
 o  Key Value Pairs 
 
 o	Configuration Steps
@@ -40,6 +41,7 @@ o	Getting help
 o	Credits
 
 o	Demo
+
 
 **Pre-requisites:**
 
@@ -115,11 +117,18 @@ MonitoredMailboxCalendarProperties.csv file should be copied in the folder of TM
 
 ** Getting Help **
 
-• Please reachout to pavupras@cisco.com/shrpv@cisco.com in case of any queries.
+•Please reach out to pavupras@cisco.com / shrpv@cisco.com in case of any queries. support is available on best effort basis.
 
 **Credits:**
 1.	Vinay Naik
 2.	Shruthi PV
 3.	Prasad Pavuluri
+
+
+**Demo Recording:**
+
+Please refer the folder Demo Videos
+
+ 
 
 
