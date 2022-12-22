@@ -28,19 +28,19 @@ We finally display a popup box showing the count of successfully processed confe
 
 
 
-o  Pre-requisites 
+o **Pre-requisites:**
  
-o  Key Value Pairs 
+o  **Key Value Pairs** 
 
-o	Configuration Steps
+o	**Configuration Steps**
 
-o	Known issues
+o	**Known issues**
 
-o	Getting help
+o	**Getting help**
 
-o	Credits
+o	**Credits**
 
-o	Demo
+o	**Demo**
 
 
 **Pre-requisites:**
@@ -113,11 +113,12 @@ MonitoredMailboxCalendarProperties.csv file should be copied in the folder of TM
 3. Please refer log file generated to determine which meetings were successfully migrated and those which couldn't.
 
 **Known issues**
+
 •	This tool is not tested against Online-Exchange or O365.
 
 **Getting Help**
 
-•Please reach out to pavupras@cisco.com / shrpv@cisco.com in case of any queries. support is available on best effort basis.
+• Please reach out to pavupras@cisco.com / shrpv@cisco.com in case of any queries. support is available on best effort basis.
 
 **Credits:**
 1.	Vinay Naik
