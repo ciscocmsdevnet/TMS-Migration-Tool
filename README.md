@@ -115,7 +115,7 @@ MonitoredMailboxCalendarProperties.csv file should be copied in the folder of TM
 **Known issues**
 •	This tool is not tested against Online-Exchange or O365.
 
-** Getting Help **
+**Getting Help**
 
 •Please reach out to pavupras@cisco.com / shrpv@cisco.com in case of any queries. support is available on best effort basis.
 
